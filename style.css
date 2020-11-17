@@ -1,0 +1,36 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    font-family: 'kavivanar', cursive;
+    font-size: small;
+}
+h1{
+    margin-top: o;
+    font-size: 5px;
+}
+.container {
+    padding-top: 10%;
+}
+.row h1{
+    font-size: 18px;
+
+}
+.row form{
+    font-size: 75px;
+}
+button{
+    background-color: gold;
+}
+#name{
+    background-color: gold;
+    
+    border-radius: 10px;
+    border-style: solid;
+}
+input{
+    background-color: black;
+}
